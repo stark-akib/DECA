@@ -11,7 +11,7 @@ This is the official Pytorch implementation of DECA.
 
 DECA reconstructs a 3D head model with detailed facial geometry from a single input image. The resulting 3D head model can be easily animated. Please refer to the [arXiv paper](https://arxiv.org/abs/2012.04012) for more details.
 
-The main features:
+The main features of this project:
 
 * **Reconstruction:** produces head pose, shape, detailed face geometry, and lighting information from a single image.
 * **Animation:** animate the face with realistic wrinkle deformations.
